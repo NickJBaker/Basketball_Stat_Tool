@@ -1,0 +1,22 @@
+Make a title 'Basketball Team Stats Tool' and Menu
+
+List choices
+
+Take user input to either display stats or quit
+if quit:
+    leave exit message and quit application
+if display stats:
+    list teams
+
+Take user input to pick a team
+if user input == 1, 2, or 3:
+    Display 'Team {} Stats'
+    _______________________
+    Display total players, total exp, total inexp, avg height
+
+    Players on Team:
+        List players
+    Guardians:
+        List guardians
+
+ Press ENTER to continue...(reloop to beginning until user quits)
